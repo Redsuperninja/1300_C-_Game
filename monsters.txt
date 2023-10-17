@@ -1,0 +1,32 @@
+Animated Armor,1
+Bugbear,1
+Harpy,1
+Tawhid,1
+Bobby,1
+Duck with a vengance,1
+Business exam,1
+Scarecrow,1
+Minotaur,2
+Owlbear,2
+Banshee,2
+Wereboar,2
+Jorts,2
+Giant Crocodile,3
+A guy named Kevin,3
+Troll,3
+Hobgoblin Warlord,3
+Mammoth,3
+Stegosaurus,3
+Fish with a Gun,3
+Stone Giant,4
+Night Hag,4
+Assassin,4
+Metalica Man,4
+Hydra,4
+Cloud Giant,5
+Silver Dragon,5
+Dubson,5
+Vampire,5
+Lich,5
+Sleepy College student,5
+Sorcerer,6
